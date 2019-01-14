@@ -3,7 +3,7 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
-	<title>Platform.sh - Online Demo Shop! </title>
+	<title> OBS - Service Stage - Online Demo Shop! </title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
@@ -32,7 +32,7 @@
 			<div class="container">
 				<ul class="kt-nav top-bar-menu">
 					<li><a href="#"><span class="menu-icon flaticon-microphone2"></span> +33 (0) 1 40 09 30 00</a></li>
-					<li><a href="#"><span class="menu-icon flaticon-new4"></span>sayhello@platform.sh</a></li>
+					<li><a href="#"><span class="menu-icon flaticon-new4"></span>sayhello@obs.com</a></li>
 				</ul>
 				<ul class="kt-nav top-bar-menu right">
 					<li class="menu-item-has-children">
